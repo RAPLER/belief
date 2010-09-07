@@ -2,7 +2,7 @@ Package: belief
 Type: Package
 Title: Contains basic functions to manipulate belief functions and
         associated mass assignments
-Version: 1.0
+Version: 1.0.1
 Date: 2010-09-07
 Author: N. Maillet, B. Charnomordic, S. Destercke
 Maintainer: S. Destercke <sebastien.destercke@cirad.fr>, B.
@@ -14,6 +14,6 @@ Description: This package contains basic functions to manipulate belief
 License: GPL (>= 2)
 LazyLoad: no
 Depends: methods
-Packaged: 2010-12-03 16:48:14 UTC; seb_home
+Packaged: 2011-01-31 15:02:15 UTC; seb_home
 Repository: CRAN
-Date/Publication: 2010-12-04 10:16:10
+Date/Publication: 2011-01-31 15:12:44

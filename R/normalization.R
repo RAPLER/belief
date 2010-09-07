@@ -12,7 +12,7 @@ if(ind!=0){			#normalization
 	val=BBA@bba[ind]
 	result=BBA@bba/(1-val)
 	result=result[-ind]
-	return(BBA(Bba=result,Group=as.matrix(BBA@group[-ind,],nrow=length(BBA@bba-1))))
+	return(BBA(Bba=result,Group=matrix(BBA@group[-ind,],nrow=length(BBA@bba)-1)))
 
 	}
 else{
